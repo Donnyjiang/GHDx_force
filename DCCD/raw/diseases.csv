@@ -1,0 +1,171 @@
+id,label,disease_name
+0,disease,disease
+1,disease,Exposure to forces of nature
+2,disease,Environmental heat and cold exposure
+3,disease,Ebola
+4,disease,Conflict and terrorism
+5,disease,Typhoid and paratyphoid
+6,disease,Other malignant neoplasms
+7,disease,Other cardiovascular and circulatory diseases
+8,disease,Invasive Non-typhoidal Salmonella (iNTS)
+9,disease,Whooping cough
+10,disease,Tetanus
+11,disease,Measles
+12,disease,Varicella and herpes zoster
+13,disease,Malaria
+14,disease,Chagas disease
+15,disease,Leishmaniasis
+16,disease,Protein-energy malnutrition
+17,disease,Iodine deficiency
+18,disease,Vitamin A deficiency
+19,disease,Dietary iron deficiency
+20,disease,Other nutritional deficiencies
+21,disease,Sexually transmitted infections excluding HIV
+22,disease,Tuberculosis
+23,disease,HIV/AIDS
+24,disease,Diarrheal diseases
+25,disease,Other intestinal infectious diseases
+26,disease,Lower respiratory infections
+27,disease,Upper respiratory infections
+28,disease,Otitis media
+29,disease,Meningitis
+30,disease,Encephalitis
+31,disease,Appendicitis
+32,disease,Paralytic ileus and intestinal obstruction
+33,disease,"Inguinal, femoral, and abdominal hernia"
+34,disease,Inflammatory bowel disease
+35,disease,"Endocrine, metabolic, blood and immune disorders"
+36,disease,Rheumatoid arthritis
+37,disease,Osteoarthritis
+38,disease,Low back pain
+39,disease,Neck pain
+40,disease,African trypanosomiasis
+41,disease,Schistosomiasis
+42,disease,Cysticercosis
+43,disease,Cystic echinococcosis
+44,disease,Lymphatic filariasis
+45,disease,Onchocerciasis
+46,disease,Trachoma
+47,disease,Dengue
+48,disease,Yellow fever
+49,disease,Lip and oral cavity cancer
+50,disease,Nasopharynx cancer
+51,disease,Other pharynx cancer
+52,disease,Gallbladder and biliary tract cancer
+53,disease,Pancreatic cancer
+54,disease,Malignant skin melanoma
+55,disease,Other digestive diseases
+56,disease,Alzheimer's disease and other dementias
+57,disease,Parkinson's disease
+58,disease,Idiopathic epilepsy
+59,disease,Multiple sclerosis
+60,disease,Motor neuron disease
+61,disease,Other neurological disorders
+62,disease,Schizophrenia
+63,disease,Drug use disorders
+64,disease,Depressive disorders
+65,disease,Bipolar disorder
+66,disease,Anxiety disorders
+67,disease,Eating disorders
+68,disease,Viral skin diseases
+69,disease,Acne vulgaris
+70,disease,Pancreatitis
+71,disease,Other musculoskeletal disorders
+72,disease,Congenital birth defects
+73,disease,Other mental disorders
+74,disease,Diabetes mellitus
+75,disease,Acute glomerulonephritis
+76,disease,Chronic kidney disease
+77,disease,Urinary diseases and male infertility
+78,disease,Gynecological diseases
+79,disease,Other unintentional injuries
+80,disease,Self-harm
+81,disease,Interpersonal violence
+82,disease,Food-borne trematodiases
+83,disease,Other neglected tropical diseases
+84,disease,Road injuries
+85,disease,Other transport injuries
+86,disease,Falls
+87,disease,Drowning
+88,disease,"Fire, heat, and hot substances"
+89,disease,Poisonings
+90,disease,Gout
+91,disease,Diphtheria
+92,disease,Stomach cancer
+93,disease,Liver cancer
+94,disease,Larynx cancer
+95,disease,"Tracheal, bronchus and lung cancer"
+96,disease,Breast cancer
+97,disease,Cervical cancer
+98,disease,Uterine cancer
+99,disease,Prostate cancer
+100,disease,Non-melanoma skin cancer
+101,disease,Ovarian cancer
+102,disease,Testicular cancer
+103,disease,Kidney cancer
+104,disease,Bladder cancer
+105,disease,Brain and central nervous system cancer
+106,disease,Thyroid cancer
+107,disease,Mesothelioma
+108,disease,Hodgkin lymphoma
+109,disease,Non-Hodgkin lymphoma
+110,disease,Multiple myeloma
+111,disease,Leukemia
+112,disease,Dermatitis
+113,disease,Psoriasis
+114,disease,Scabies
+115,disease,Fungal skin diseases
+116,disease,Alopecia areata
+117,disease,Pruritus
+118,disease,Non-rheumatic valvular heart disease
+119,disease,Chronic obstructive pulmonary disease
+120,disease,Pneumoconiosis
+121,disease,Asthma
+122,disease,Interstitial lung disease and pulmonary sarcoidosis
+123,disease,Other chronic respiratory diseases
+124,disease,Cirrhosis and other chronic liver diseases
+125,disease,Urticaria
+126,disease,Decubitus ulcer
+127,disease,Other skin and subcutaneous diseases
+128,disease,Age-related and other hearing loss
+129,disease,Other sense organ diseases
+130,disease,Oral disorders
+131,disease,Colon and rectum cancer
+132,disease,Rabies
+133,disease,Intestinal nematode infections
+134,disease,Maternal disorders
+135,disease,Neonatal disorders
+136,disease,Autism spectrum disorders
+137,disease,Attention-deficit/hyperactivity disorder
+138,disease,Conduct disorder
+139,disease,Idiopathic developmental intellectual disability
+140,disease,Exposure to mechanical forces
+141,disease,Headache disorders
+142,disease,Acute hepatitis
+143,disease,Leprosy
+144,disease,Other unspecified infectious diseases
+145,disease,Esophageal cancer
+146,disease,Adverse effects of medical treatment
+147,disease,Animal contact
+148,disease,Other neoplasms
+149,disease,Rheumatic heart disease
+150,disease,Ischemic heart disease
+151,disease,Stroke
+152,disease,Hypertensive heart disease
+153,disease,Executions and police conflict
+154,disease,Zika virus
+155,disease,Guinea worm disease
+156,disease,Hemoglobinopathies and hemolytic anemias
+157,disease,Alcohol use disorders
+158,disease,Sudden infant death syndrome
+159,disease,Bacterial skin diseases
+160,disease,Blindness and vision loss
+161,disease,Upper digestive system diseases
+162,disease,Vascular intestinal disorders
+163,disease,Gallbladder and biliary diseases
+164,disease,Peripheral artery disease
+165,disease,Endocarditis
+166,disease,Cardiomyopathy and myocarditis
+167,disease,Atrial fibrillation and flutter
+168,disease,Aortic aneurysm
+169,disease,Foreign body

@@ -1,0 +1,21 @@
+id,label,reason_name,,value
+376,reason,"Unsafe water, sanitation",,16
+377,reason,Non-optimal temperature,,20
+378,reason,Kidney dysfunction,,18
+379,reason,High LDL cholesterol,,12
+380,reason,Childhood sexual abuse and bullying,,22
+381,reason,Unsafe sex,,20
+382,reason,Alcohol use,,17
+383,reason,Drug use,,16
+384,reason,High fasting plasma glucose,,24
+385,reason,High systolic blood pressure,,20
+386,reason,High body-mass index,,15
+387,reason,Low bone mineral density,,20
+388,reason,Dietary risks,,19
+389,reason,Air pollution,,21
+390,reason,Low physical activity,,30
+391,reason,Occupational risks,,25
+392,reason,Other environmental risks,,27
+393,reason,Child and maternal malnutrition,,25
+394,reason,Tobacco,,21
+395,reason,Intimate partner violence,,20

@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>DataViz</title>
+        <style type="text/css">
+            #viz {
+                width: 900px;
+                height: 700px;
+            }
+        </style>
+        <script src="https://rawgit.com/neo4j-contrib/neovis.js/master/dist/neovis.js"></script>
+    </head>   
+    <script>
+        function draw() {
+            var config = {
+                container_id: "viz",
+                server_url: "bolt://211.81.52.14:7687",
+                server_user: "neo4j",
+                server_password: "123",
+                labels: {
+                    "disease": {
+                        caption: "disease_name",
+                        size: 1
+                        // community: "community"
+                    },
+                    "country": {
+                        caption: "country_name",
+                        size: 1
+                        // community: "community"
+                    }
+                },
+                relationships: {
+                    "disease_value": {
+                        caption: false,
+                        thickness: "value"
+                    }
+                },
+                // initial_cypher: "MATCH p=(:disease)-[:disease_value]->(:country)<-[:disease_value]-(:disease) RETURN p"
+                initial_cypher: "MATCH p=(:disease)-[:disease_value]->(:country) RETURN p"
+            }
+
+            var viz = new NeoVis.default(config);
+            viz.render();
+        }
+    </script>
+    <body onload="draw()">
+        <div id="viz"></div>
+    </body>
+</html>

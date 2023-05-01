@@ -1,0 +1,170 @@
+id,label,disease_name,value,cata
+1,disease,Exposure to forces of nature,3.8,2
+2,disease,Environmental heat and cold exposure,10,2
+3,disease,Ebola,0.77,1
+4,disease,Conflict and terrorism,7.3,2
+5,disease,Typhoid and paratyphoid,38,1
+6,disease,Other malignant neoplasms,7.3,0
+7,disease,Other cardiovascular and circulatory diseases,35,0
+8,disease,Invasive Non-typhoidal Salmonella (iNTS),24,1
+9,disease,Whooping cough,40,1
+10,disease,Tetanus,9.1,1
+11,disease,Measles,28,1
+12,disease,Varicella and herpes zoster,7.3,1
+13,disease,Malaria,7.3,1
+14,disease,Chagas disease,1.1,1
+15,disease,Leishmaniasis,7.3,1
+16,disease,Protein-energy malnutrition,60,1
+17,disease,Iodine deficiency,9.6,1
+18,disease,Vitamin A deficiency,4.6,1
+19,disease,Dietary iron deficiency,112,1
+20,disease,Other nutritional deficiencies,9.3,1
+21,disease,Sexually transmitted infections excluding HIV,34,1
+22,disease,Tuberculosis,186,1
+23,disease,HIV/AIDS,188,1
+24,disease,Diarrheal diseases,319,1
+25,disease,Other intestinal infectious diseases,7.3,1
+26,disease,Lower respiratory infections,383,1
+27,disease,Upper respiratory infections,25,1
+28,disease,Otitis media,9.6,1
+29,disease,Meningitis,64,1
+30,disease,Encephalitis,19,1
+31,disease,Appendicitis,5.9,0
+32,disease,Paralytic ileus and intestinal obstruction,7.3,0
+33,disease,"Inguinal, femoral, and abdominal hernia",13,0
+34,disease,Inflammatory bowel disease,6.4,0
+35,disease,"Endocrine, metabolic, blood and immune disorders",7.3,1
+36,disease,Rheumatoid arthritis,13,0
+37,disease,Osteoarthritis,74,0
+38,disease,Low back pain,250,0
+39,disease,Neck pain,87,0
+40,disease,African trypanosomiasis,7.3,1
+41,disease,Schistosomiasis,6.4,0
+42,disease,Cysticercosis,5.4,1
+43,disease,Cystic echinococcosis,0.48,1
+44,disease,Lymphatic filariasis,6.4,1
+45,disease,Onchocerciasis,4.8,1
+46,disease,Trachoma,7.3,1
+47,disease,Dengue,9.4,1
+48,disease,Yellow fever,1.1,1
+49,disease,Lip and oral cavity cancer,22,0
+50,disease,Nasopharynx cancer,9.2,0
+51,disease,Other pharynx cancer,13,0
+52,disease,Gallbladder and biliary tract cancer,14,0
+53,disease,Pancreatic cancer,14,0
+54,disease,Malignant skin melanoma,6.7,0
+55,disease,Other digestive diseases,9.9,0
+56,disease,Alzheimer's disease and other dementias,100,0
+57,disease,Parkinson's disease,7.3,0
+58,disease,Idiopathic epilepsy,52,0
+59,disease,Multiple sclerosis,4.6,0
+60,disease,Motor neuron disease,7.3,0
+61,disease,Other neurological disorders,7.3,0
+62,disease,Schizophrenia,60,1
+63,disease,Drug use disorders,71,0
+64,disease,Depressive disorders,7.3,0
+65,disease,Bipolar disorder,33,0
+66,disease,Anxiety disorders,113,0
+67,disease,Eating disorders,11,0
+68,disease,Viral skin diseases,19,0
+69,disease,Acne vulgaris,19,1
+70,disease,Pancreatitis,7.3,0
+71,disease,Other musculoskeletal disorders,159,0
+72,disease,Congenital birth defects,208,1
+73,disease,Other mental disorders,34,0
+74,disease,Diabetes mellitus,279,0
+75,disease,Acute glomerulonephritis,7.3,1
+76,disease,Chronic kidney disease,164,0
+77,disease,Urinary diseases and male infertility,37,1
+78,disease,Gynecological diseases,117,1
+79,disease,Other unintentional injuries,35,2
+80,disease,Self-harm,135,2
+81,disease,Interpersonal violence,106,2
+82,disease,Food-borne trematodiases,3.1,1
+83,disease,Other neglected tropical diseases,11,1
+84,disease,Road injuries,287,2
+85,disease,Other transport injuries,19,2
+86,disease,Falls,155,2
+87,disease,Drowning,51,2
+88,disease,"Fire, heat, and hot substances",29,2
+89,disease,Poisonings,16,2
+90,disease,Gout,6.6,0
+91,disease,Diphtheria,7.3,1
+92,disease,Stomach cancer,88,0
+93,disease,Liver cancer,49,0
+94,disease,Larynx cancer,13,0
+95,disease,"Tracheal, bronchus and lung cancer",181,0
+96,disease,Breast cancer,81,0
+97,disease,Cervical cancer,35,0
+98,disease,Uterine cancer,7.3,0
+99,disease,Prostate cancer,34,0
+100,disease,Non-melanoma skin cancer,7.3,0
+101,disease,Ovarian cancer,21,0
+102,disease,Testicular cancer,2.2,0
+103,disease,Kidney cancer,16,0
+104,disease,Bladder cancer,17,0
+105,disease,Brain and central nervous system cancer,34,0
+106,disease,Thyroid cancer,4.9,0
+107,disease,Mesothelioma,2.6,0
+108,disease,Hodgkin lymphoma,4.5,0
+109,disease,Non-Hodgkin lymphoma,7.3,0
+110,disease,Multiple myeloma,7.3,0
+111,disease,Leukemia,46,0
+112,disease,Dermatitis,39,0
+113,disease,Psoriasis,14,0
+114,disease,Scabies,7.3,1
+115,disease,Fungal skin diseases,13,0
+116,disease,Alopecia areata,2.4,0
+117,disease,Pruritus,7.3,0
+118,disease,Non-rheumatic valvular heart disease,11,0
+119,disease,Chronic obstructive pulmonary disease,294,0
+120,disease,Pneumoconiosis,7.3,0
+121,disease,Asthma,85,0
+122,disease,Interstitial lung disease and pulmonary sarcoidosis,7.3,0
+123,disease,Other chronic respiratory diseases,7.3,0
+124,disease,Cirrhosis and other chronic liver diseases,182,0
+125,disease,Urticaria,11,0
+126,disease,Decubitus ulcer,11,0
+127,disease,Other skin and subcutaneous diseases,14,0
+128,disease,Age-related and other hearing loss,11,0
+129,disease,Other sense organ diseases,13,0
+130,disease,Oral disorders,91,1
+131,disease,Colon and rectum cancer,96,0
+132,disease,Rabies,3.1,1
+133,disease,Intestinal nematode infections,7.7,1
+134,disease,Maternal disorders,50,1
+135,disease,Neonatal disorders,733,1
+136,disease,Autism spectrum disorders,11,0
+137,disease,Attention-deficit/hyperactivity disorder,11,0
+138,disease,Conduct disorder,11,0
+139,disease,Idiopathic developmental intellectual disability,17,0
+140,disease,Exposure to mechanical forces,46,2
+141,disease,Headache disorders,182,0
+142,disease,Acute hepatitis,17,1
+143,disease,Leprosy,11,1
+144,disease,Other unspecified infectious diseases,20,1
+145,disease,Esophageal cancer,11,0
+146,disease,Adverse effects of medical treatment,15,2
+147,disease,Animal contact,21,2
+148,disease,Other neoplasms,11,0
+149,disease,Rheumatic heart disease,42,0
+150,disease,Ischemic heart disease,719,0
+151,disease,Stroke,565,0
+152,disease,Hypertensive heart disease,85,0
+153,disease,Executions and police conflict,11,2
+154,disease,Zika virus,11,1
+155,disease,Guinea worm disease,0.0032,1
+156,disease,Hemoglobinopathies and hemolytic anemias,50,1
+157,disease,Alcohol use disorders,67,0
+158,disease,Sudden infant death syndrome,11,1
+159,disease,Bacterial skin diseases,8.7,0
+160,disease,Blindness and vision loss,88,0
+161,disease,Upper digestive system diseases,58,0
+162,disease,Vascular intestinal disorders,7.4,0
+163,disease,Gallbladder and biliary diseases,14,0
+164,disease,Peripheral artery disease,6.1,0
+165,disease,Endocarditis,6.8,0
+166,disease,Cardiomyopathy and myocarditis,36,0
+167,disease,Atrial fibrillation and flutter,33,0
+168,disease,Aortic aneurysm,13,0
+169,disease,Foreign body,25,2
